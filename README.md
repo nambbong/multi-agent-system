@@ -133,8 +133,10 @@ multi-agent-system/
 MIT License — 자유롭게 사용, 수정, 배포 가능합니다.
 
 ---
-<img width="595" height="417" alt="스크린샷 2026-03-19 114418" src="https://github.com/user-attachments/assets/34e17ee3-8445-426f-b94f-20f0c9be7cdf" />
-<img width="759" height="309" alt="스크린샷 2026-03-19 114549" src="https://github.com/user-attachments/assets/0aa23774-9fef-46e8-937b-496c358f1f9c" />
-<img width="626" height="257" alt="스크린샷 2026-03-19 114432" src="https://github.com/user-attachments/assets/d24db350-0430-486c-b7f4-b22583d21505" />
+
+<img width="595" height="417" alt="스크린샷 2026-03-19 114418" src="https://github.com/user-attachments/assets/14e219eb-5867-4bfb-854f-5dba8e28aef8" />
+<img width="626" height="257" alt="스크린샷 2026-03-19 114432" src="https://github.com/user-attachments/assets/85f05c90-039c-44d5-9689-90008575b5f2" />
+<img width="759" height="309" alt="스크린샷 2026-03-19 114549" src="https://github.com/user-attachments/assets/78b99603-3c53-4db5-abbb-d0b6d59d3c21" />
+
 
 *Made with Claude Code · nambbong/multi-agent-system*
