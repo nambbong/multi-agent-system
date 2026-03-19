@@ -145,9 +145,9 @@ MIT License — 자유롭게 사용, 수정, 배포 가능합니다.
 
 ### 실행 화면
 
-![에이전트 실행 화면1](스크린샷_2026-03-19_114418.png)
-![에이전트 실행 화면2](스크린샷_2026-03-19_114432.png)
-![산출물 목록](스크린샷_2026-03-19_114549.png)
+![에이전트 실행 화면1](https://github.com/user-attachments/assets/6b478caa-ee25-4688-b638-19e34f0e15ff"))
+![에이전트 실행 화면2](https://github.com/user-attachments/assets/b0798628-c068-4b26-96b5-3eeb70cd32c4))
+![산출물 목록](https://github.com/user-attachments/assets/e4e48886-5f91-4487-9826-9bd5deba229b)
 
 ### 실제 산출물 — 10_FINAL_REPORT.md (Claude 작성)
 
